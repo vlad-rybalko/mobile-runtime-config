@@ -1,0 +1,7 @@
+{
+  "host": "semyanich.im",
+  "allowed_urls": ["semyanich.im","semyanich-app.com","semyanichstore-5.online"],
+  "min_version": "2.0.0",
+  "target_version": "2.0.0",
+  "download_url": "https://semyanichstore-5.online/mobile-app/7ch.apk"
+}
